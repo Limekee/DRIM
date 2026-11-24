@@ -1,0 +1,16 @@
+{
+ "n": 100000,
+ "uniq_emails_orig": 100000,
+ "uniq_emails_masked": 100000,
+ "uniq_phones_orig": 99995,
+ "uniq_phones_masked": 99995,
+ "uniq_ids_orig": 100000,
+ "uniq_ids_masked": 100000,
+ "tv_email_domains": 0.0053,
+ "tv_birth_years": 0.0,
+ "avg_fio_len_orig": 24.9,
+ "avg_fio_len_masked": 24.9,
+ "fio_collisions": 62439,
+ "phone_collisions": 5,
+ "email_collisions": 0
+}
